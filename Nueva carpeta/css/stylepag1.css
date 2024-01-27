@@ -1,0 +1,35 @@
+.p1{
+    color: blue;
+    background-color: cadetblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+#p2{
+    color: orange;
+    background-color: cadetblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+.d1{
+    background-color: grey;
+    margin-right: 5%;
+    margin-left: 5%;
+    margin-top: 5%;
+    margin-bottom: 2%;
+    padding-right: 5%;
+    padding-left: 5%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.d2{
+    margin-right: 5%;
+    margin-left: 5%;
+    margin-top: 2%;
+    margin-bottom: 5%;
+    background-color: grey;
+    padding-right: 5%;
+    padding-left: 5%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
